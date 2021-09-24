@@ -15,5 +15,13 @@
   "license": "ISC",
   "dependencies": {
     "jsonwebtoken": "^8.5.1"
+  },
+  "homepage": "https://github.com/martinjakubec/jwt-verify-middleware",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinjakubec/jwt-verify-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martinjakubec/jwt-verify-middleware/issues"
   }
 }
