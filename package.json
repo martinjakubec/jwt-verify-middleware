@@ -1,0 +1,19 @@
+{
+  "name": "@mjakubec/jwt-verify",
+  "version": "1.0.0",
+  "description": "Express.js middleware to handle JWT authorization via Authorization header.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "jwt",
+    "authorization"
+  ],
+  "author": "Martin Jakubec",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
