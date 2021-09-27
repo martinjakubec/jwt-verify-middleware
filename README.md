@@ -2,6 +2,8 @@
 
 Simple express middleware to authorize JSON Web Tokens and authorize users.
 
+Install with: ``npm install @mjakubec/jwt-verify`` 
+
 Provides `isUserLoggedIn` property (`true` or `false`) on `res.locals` object.
 
 Furthermore, it decodes the values in JWT and provides them as `tokenValues` property on `res.locals` object so that you can see contents of the token.
